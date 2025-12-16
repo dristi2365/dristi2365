@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Dristi! 👋
 
-<!--
-**dristi2365/dristi2365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+I am a CSIT student with an interest in Python, data analysis, and artificial intelligence. I enjoy learning by building projects and improving my skills step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+* HTML, CSS, JavaScript
+* Python
+* Git & GitHub
+* Basics of AI/ML
+
+## 📚 Currently Learning
+
+* Frontend development
+* Python for problem solving and projects
+* Fundamentals of AI and Machine Learning
+* SQL
+* BI tools
+
+## 🎯 Goals
+
+* Build consistent, meaningful projects
+* Strengthen core computer science fundamentals
+* Prepare for internships and entry-level roles in tech
+
+## 📌 Projects
+
+You can find my academic assignments and personal learning projects in my repositories.
+
+## 🌱 Note
+
+This GitHub is used to track my learning progress and showcase my growth over time.
+
+---
+
+⭐ Always learning, always improving
