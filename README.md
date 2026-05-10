@@ -1,17 +1,28 @@
-# Hi, I'm Dristi! 👋
+# Hi, I'm Dristi Shakya! 👋
 
-About Me
+## About Me
+I am a 3rd year BSc CSIT student at Padma Kanya Multiple Campus, 
+Tribhuvan University. I enjoy learning by building real projects 
+and I am currently focused on Data Analysis and AI/ML.
 
-I am a CSIT student with an interest in Python, data analysis, and artificial intelligence. I enjoy learning by building projects and improving my skills step by step.
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, HTML, CSS
+- **Libraries:** Pandas, NumPy, OpenCV, Scikit-learn
+- **Tools:** Git, GitHub, Google Colab, VS Code
+- **Concepts:** Machine Learning, Data Analysis
 
--  Currently learning: Web development & Python  
--  Tech: HTML, CSS, JavaScript, Python, Git  
--  Goal: Build solid projects and prepare for tech roles  
+## 🚀 Projects
+- **Career Recommendation System** — AI system that recommends 
+career paths using cosine similarity
+- **SMS Spam Classifier** — NLP text classification model using 
+TF-IDF and Naive Bayes
+- **Recipe Recommendation System** — ML-based recipe recommender 
+using collaborative filtering
 
-## Projects
-You can find my academic assignments and personal learning projects in my repositories.
+## 🎯 Currently
+- Building practical Data Analysis and AI/ML skills
+- Open to internship opportunities in Nepal and remotely
 
-##  Note
-This profile documents my learning and projects.
-
----
+## 📫 Contact
+- Email: shakyadristi2@gmail.com
+- LinkedIn: linkedin.com/in/dristi-shakya-439908374
