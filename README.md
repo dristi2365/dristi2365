@@ -48,13 +48,6 @@ Uncovered key trends: pass rate improved from **47.86% (2080)** to **65.98% (208
 
 ---
 
-## 📈 GitHub Stats
-
-![Dristi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dristi2365&show_icons=true&hide_border=true&theme=default&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dristi2365&layout=compact&hide_border=true&theme=default)
-
----
-
 ## 🎯 Currently
 
 - Building practical Data Analysis and AI/ML skills
