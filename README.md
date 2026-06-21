@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20&height=200&text=Dristi%20Shakya&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Data%20Analyst%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=68&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,30&height=200&text=Dristi%20Shakya&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Data%20Analyst%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=68&descSize=18">
 
 <div align="center">
 
@@ -15,6 +15,8 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
 </p>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dristi2365.dristi2365)
 
 </div>
 
@@ -71,6 +73,8 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 - Iterated from a position-based to motion-based approach after identifying accuracy limitations
 - **Tech:** Python, OpenCV, YOLOv8, Pandas
 
+<!-- Add a screenshot: ![Demo](assets/padel-demo.png) -->
+
 ---
 
 ### 🇳🇵 [Nepal SEE Results Analysis (2080–2082)](https://github.com/dristi2365/nepal-see-analysis)
@@ -78,8 +82,10 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 
 - Collected real government data from NEB press releases and structured it in Python
 - Built 5 visualizations uncovering trends in pass rates and grade distributions
-- Key finding: pass rate improved from **47.86% to 65.98%** in 2 years; math is the biggest barrier
+- Key finding: pass rate improved from **47.86% → 65.98%** in just 2 years; math remains the biggest barrier
 - **Tech:** Python, Pandas, Matplotlib
+
+<!-- Add a chart screenshot: ![Analysis Chart](assets/see-analysis.png) -->
 
 ---
 
@@ -101,6 +107,8 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 - Uses **cosine similarity** to match user profile to closest career fits
 - Interactive slider UI with real-time progress tracking
 - **Tech:** Python, Flask, Pandas, Scikit-learn, HTML/CSS/JS
+
+<!-- Add a screenshot: ![Career Compass Demo](assets/career-compass-demo.png) -->
 
 ---
 
@@ -135,7 +143,3 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 ## 💬 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
