@@ -16,8 +16,6 @@
     </a>
 </p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=dristi2365.dristi2365)
-
 </div>
 
 ---
@@ -28,9 +26,7 @@ I'm a **3rd year BSc CSIT student** at Padma Kanya Multiple Campus, Tribhuvan Un
 I enjoy learning by building real projects and I'm currently focused on **Data Analysis, AI/ML and Computer Vision.**
 
 - 🌱 Currently learning **SQL and Power BI**
-- 🔭 Working on **Career Recommendation System** and **Fraud Detection System**
-- 💡 Interested in building things that create real impact — especially in the Nepal context
-- 📫 Reach me at **shakyadristi2@gmail.com**
+- 💡 Interested in building things that create real impact
 
 ---
 
