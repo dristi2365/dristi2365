@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,30&height=200&text=Dristi%20Shakya&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Data%20Analyst%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=68&descSize=18">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=11,20,30&height=200&text=Dristi%20Shakya&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=Data%20Analysis%20%7C%20AI%20%2F%20ML%20Enthusiast&descAlignY=68&descSize=18">
 
 <div align="center">
 
