@@ -121,9 +121,9 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 
 <div align="center">
 
-![Dristi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dristi2365&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Dristi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dristi2365&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dristi2365&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dristi2365&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
 </div>
 
