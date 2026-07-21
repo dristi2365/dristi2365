@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Building+things+that+matter+✨;Data+Analysis+%7C+AI+%2F+ML+%7C+Computer+Vision;3rd+Year+CSIT+Student+from+Nepal+🇳🇵)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=764BA2&center=true&vCenter=true&width=600&lines=Building+things+that+matter+✨;Data+Analysis+%7C+AI+%2F+ML+%7C+Computer+Vision;3rd+Year+CSIT+Student)](https://git.io/typing-svg)
 
 <p>
     <a href="https://linkedin.com/in/dristi-shakya-439908374">
