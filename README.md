@@ -72,8 +72,6 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 - Built the **FastAPI** backend with async, non-blocking endpoints for detection, STT, LLM reasoning, and TTS
 - **Tech:** Python, FastAPI, YOLOv8, OpenCV, Whisper, Groq API, gTTS, React
 
-<!-- Add a demo screenshot or GIF: ![Sarathi Demo](assets/sarathi-demo.png) -->
-
 ---
 
 ### 🏛️ [Sajilo Sewa — Government Scheme Finder](https://github.com/dristi2365/government-scheme-finder)
@@ -82,10 +80,8 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 - Built the ML-based eligibility matching engine within a **3-person team**
 - Designed rule-based matching logic in Python covering scholarships, subsidies, health insurance, and more
 - Exposed matching logic through a **FastAPI** backend, integrated with an HTML/CSS/JS frontend
-- Tier 1 (scheme finder, document checklist, application guide) fully functional; AI chatbot planned as a future addition
-- **Tech:** Python, FastAPI, HTML, CSS, JavaScript
-
-<!-- Add a demo screenshot: ![Sajilo Sewa Demo](assets/sajilo-sewa-demo.png) -->
+- Added bookmarking and an AI chatbot (Groq API) that answers user questions grounded only in real scheme data
+- **Tech:** Python, FastAPI, HTML, CSS, JavaScript, Groq API
 
 ---
 
@@ -97,8 +93,6 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 - Iterated from a position-based to motion-based approach after identifying accuracy limitations
 - **Tech:** Python, OpenCV, YOLOv8, Pandas
 
-<!-- Add a screenshot: ![Demo](assets/padel-demo.png) -->
-
 ---
 
 ### 🇳🇵 [Nepal SEE Results Analysis (2080–2082)](https://github.com/dristi2365/nepal-see-analysis)
@@ -108,8 +102,6 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 - Built 5 visualizations uncovering trends in pass rates and grade distributions
 - Key finding: pass rate improved from **47.86% → 65.98%** in just 2 years; math remains the biggest barrier
 - **Tech:** Python, Pandas, Matplotlib
-
-<!-- Add a chart screenshot: ![Analysis Chart](assets/see-analysis.png) -->
 
 ---
 
@@ -131,8 +123,6 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 - Uses **cosine similarity** to match user profile to closest career fits
 - Interactive slider UI with real-time progress tracking
 - **Tech:** Python, Flask, Pandas, Scikit-learn, HTML/CSS/JS
-
-<!-- Add a screenshot: ![Career Compass Demo](assets/career-compass-demo.png) -->
 
 ---
 
