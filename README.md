@@ -32,7 +32,7 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,opencv,git,github,vscode,jupyter&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,fastapi,opencv,git,github,vscode,jupyter&perline=8)](https://skillicons.dev)
 
 **Languages:**
 
@@ -48,6 +48,7 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Tools:**
@@ -60,6 +61,33 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 ---
 
 ## 🚀 Projects
+
+### 🗣️ [Sarathi — AI Voice Assistant for Visually Impaired Users](https://github.com/dristi2365/sarathi)
+> AI-powered Nepali voice assistant that helps visually impaired users understand their surroundings
+
+- Led development within a **3-person team** at OrchidHackX 2026
+- Built real-time object detection & tracking using **YOLOv8 + ByteTrack**, with direction/distance estimation
+- Integrated **OpenAI Whisper** for Nepali speech-to-text and **gTTS** for Nepali text-to-speech
+- Designed a grounded prompt pipeline so the **Groq-hosted LLM (Llama 3.3 70B)** only answers from live detections, preventing hallucinated objects
+- Built the **FastAPI** backend with async, non-blocking endpoints for detection, STT, LLM reasoning, and TTS
+- **Tech:** Python, FastAPI, YOLOv8, OpenCV, Whisper, Groq API, gTTS, React
+
+<!-- Add a demo screenshot or GIF: ![Sarathi Demo](assets/sarathi-demo.png) -->
+
+---
+
+### 🏛️ [Sajilo Sewa — Government Scheme Finder](https://github.com/dristi2365/government-scheme-finder)
+> AI-powered assistant that matches users to government schemes they're eligible for
+
+- Built the ML-based eligibility matching engine within a **3-person team**
+- Designed rule-based matching logic in Python covering scholarships, subsidies, health insurance, and more
+- Exposed matching logic through a **FastAPI** backend, integrated with an HTML/CSS/JS frontend
+- Tier 1 (scheme finder, document checklist, application guide) fully functional; AI chatbot planned as a future addition
+- **Tech:** Python, FastAPI, HTML, CSS, JavaScript
+
+<!-- Add a demo screenshot: ![Sajilo Sewa Demo](assets/sajilo-sewa-demo.png) -->
+
+---
 
 ### 🎾 [Padel Game Analytics — Shot Classification System](https://github.com/dristi2365/padel-game-analytics)
 > Computer vision system that detects players and classifies shots in padel match footage
