@@ -25,7 +25,6 @@
 I'm a **3rd year BSc CSIT student** at Padma Kanya Multiple Campus, Tribhuvan University.
 I enjoy learning by building real projects and I'm currently focused on **Data Analysis, AI/ML and Computer Vision.**
 
-- 🌱 Currently learning **SQL and Power BI**
 - 💡 Interested in building things that create real impact
 
 ---
