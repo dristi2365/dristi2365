@@ -64,7 +64,7 @@ I enjoy learning by building real projects and I'm currently focused on **Data A
 ### 🗣️ [Sarathi — AI Voice Assistant for Visually Impaired Users](https://github.com/dristi2365/sarathi)
 > AI-powered Nepali voice assistant that helps visually impaired users understand their surroundings
 
-- Led development within a **3-person team** at OrchidHackX 2026
+- Collaborated within a **3-person team** at OrchidHackX 2026
 - Built real-time object detection & tracking using **YOLOv8 + ByteTrack**, with direction/distance estimation
 - Integrated **OpenAI Whisper** for Nepali speech-to-text and **gTTS** for Nepali text-to-speech
 - Designed a grounded prompt pipeline so the **Groq-hosted LLM (Llama 3.3 70B)** only answers from live detections, preventing hallucinated objects
